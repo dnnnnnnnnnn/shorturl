@@ -2,7 +2,7 @@
 
 ShortURL is a simple URL shortener utilising tinyurl API build with Next.Js.
 
-<h1>Technologies</h1>
+<h2>Technologies</h2>
 
 Next.JS HTML CSS JS TypeScript
 
