@@ -1,4 +1,4 @@
-<h1>ShortURL</h1>
+<h2>ShortURL</h2>
 
 ShortURL is a simple URL shortener utilising tinyurl API build with Next.Js.
 
